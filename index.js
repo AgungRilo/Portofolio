@@ -24,27 +24,27 @@ var skills = [
     data: [
       {
         title: "Java",
-        src: "java.png",
+        src: "./asset/java.png",
         alt: "java",
       },
       {
         title: "MySQL",
-        src: "mysql.png",
+        src: "./asset/mysql.png",
         alt: "mysql",
       },
       {
         title: "JavaScript",
-        src: "js.png",
+        src: "./asset/js.png",
         alt: "javascript",
       },
       {
         title: "TypeScript",
-        src: "ts.png",
+        src: "./asset/ts.png",
         alt: "typescript",
       },
       {
         title: "Nextjs",
-        src: "nextjs.png",
+        src: "./asset/nextjs.png",
         alt: "nextjs",
       },
     ]
@@ -55,12 +55,12 @@ var skills = [
     data: [
       {
         title: "React",
-        src: "react.png",
+        src: "./asset/react.png",
         alt: "react",
       },
       {
         title: "Nodejs",
-        src: "nodejs.png",
+        src: "./asset/nodejs.png",
         alt: "nodejs",
       },
     ]
@@ -71,17 +71,17 @@ var skills = [
     data: [
       {
         title: "Visual Studio Code",
-        src: "vscode.png",
+        src: "./asset/vscode.png",
         alt: "vscode",
       },
       {
         title: "Git",
-        src: "git.png",
+        src: "./asset/git.png",
         alt: "git",
       },
       {
         title: "Postman",
-        src: "postman.png",
+        src: "./asset/postman.png",
         alt: "postman",
       }
     ]
@@ -149,7 +149,7 @@ var card = [
     id:1, 
     title:"Agung Rilo Pambudi",
     jobTitle:"Frontend Developer",
-    src:"./profile.jpg",
+    src:"./asset/profile.jpg",
     alt:"profile.jpg",
     email:"agungrilo1@gmail.com",
     phone:"081288054010"
